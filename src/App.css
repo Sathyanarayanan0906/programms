@@ -1,0 +1,27 @@
+.App {
+  text-align:left;
+  background-color: rgb(238, 18, 227);
+
+}
+a:link,a:visited {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 17, 255);
+}
+
+a:active {
+  color: yellow;
+  text-decoration: underline;
+}
+a{
+  font-size: 20px;
+}
+
+
+
+
+
+
